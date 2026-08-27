@@ -1,14 +1,14 @@
 cask "final-round" do
-  version "3.0.1"
+  version "3.0.2"
 
   on_arm do
-    sha256 "4065369a3e1f1872eff6eb2a03a0b3f3fe810621bfe8182c511b77fbbda11b8e"
-    url "https://releases.finalroundai.com/latest/final-round-desktop-3.0.1-arm64-mac.dmg"
+    sha256 "65940abd07ce648fcac5f07a09a2054ee23fd2f6a901f60216fdf07ab4f359b8"
+    url "https://releases.finalroundai.com/latest/final-round-desktop-3.0.2-arm64-mac.dmg"
   end
 
   on_intel do
-    sha256 "2b111b9d210cb1da5bec09e148ce2c8cc91cb0923adbdeff41c41c8cdb193dac"
-    url "https://releases.finalroundai.com/latest/x64/final-round-desktop-3.0.1-x64-mac.dmg"
+    sha256 "85519432e5649f8b23eabb1c0d3917cb84ff498f7c716f902d9b682b3e988c5b"
+    url "https://releases.finalroundai.com/latest/x64/final-round-desktop-3.0.2-x64-mac.dmg"
   end
 
   name "Final Round"
